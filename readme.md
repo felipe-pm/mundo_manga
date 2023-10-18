@@ -3,12 +3,11 @@ creado con vite
 
 ingresa aqui para ver el proyecto
 
-deploy Front
+deploy
 
-<a href="https://stellar-malabi-8e106f.netlify.app">ingresa aca</a>
+<a href="https://mundo-manga.onrender.com">ingresa aca</a>
 
-repositorio Backend
-<a href="">ingresa aca</a>
+
 
 
 desarrolladores
