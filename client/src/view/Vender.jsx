@@ -9,7 +9,7 @@ import "../assets/css/vender.css";
 const Vender = () => {
 
     const navigate = useNavigate();
-    const url = "http://localhost:3000";
+    const url = "https://backend-mundomanga.onrender.com";
     const { usuario, isLoggedIn } = useContext(AuthContext);
   
     const [formData, setFormData] = useState({

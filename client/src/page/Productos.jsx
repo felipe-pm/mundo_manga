@@ -6,7 +6,7 @@ const Productos = () => {
 
   const [productos, setProductos] = useState([]);
   const [selectedProduct, setSelectedProduct] = useState(null);
-  const url = "http://localhost:3000";
+  const url = "https://backend-mundomanga.onrender.com";
 
   const obtenerProductos = async () => {
     const endpoint = "/productos";

@@ -21,7 +21,7 @@ export default function Perfil() {
     email: '',
     password: '',
   });
-  const url = "http://localhost:3000";
+  const url = "https://backend-mundomanga.onrender.com";
 
   const getUsuarioData = async () => {
     const endpoint = "/usuarios";

@@ -26,7 +26,7 @@ export default function RegistroForm() {
     // const urlServer = "https://proyect-backend.onrender.com/api/v1/user";
     // const endpoint = "/login";
 
-    const urlServer = "http://localhost:3000";
+    const urlServer = "https://backend-mundomanga.onrender.com";
     const endpoint = "/login";
 
     const { email, password } = usuario;

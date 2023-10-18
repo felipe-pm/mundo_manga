@@ -3,7 +3,7 @@ import axios from 'axios';
 
 const DetalleProducto = ({ match }) => {
   const [producto, setProducto] = useState({});
-  const url = "http://localhost:3000";
+  const url = "https://backend-mundomanga.onrender.com";
 
   const obtenerProducto = async () => {
     const producto_id = match.params.id; // Obtén el ID del producto desde la URL
@@ -28,7 +28,7 @@ const DetalleProducto = ({ match }) => {
           <h2>{producto.nombre}</h2>
           <p>{producto.descripcion}</p>
           <p>Precio: ${producto.precio}</p>
-          {/* Agrega otros detalles del producto según tu modelo de datos */}
+          
         </div>
       </div>
     </div>

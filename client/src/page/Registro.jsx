@@ -41,7 +41,7 @@ const validarCamposLlenos = ()=>{
       return;
     }
 
-      const urlServer = "http://localhost:3000";
+      const urlServer = "https://backend-mundomanga.onrender.com";
       const endpoint = "/usuarios";
       try {
         // const urlServer = "https://proyect-backend.onrender.com/api/v1/user";

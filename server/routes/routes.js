@@ -6,6 +6,8 @@ require('dotenv').config();
 const { registrarUsuario, obtenerDatosDeUsuario, verificarCredenciales, agregarProducto, updateUsuario, getProductos, getSelectedProduct } = require('../consultas/consultas');
 const { checkCredentialsExist, tokenVerification } = require('../middlewares/middleware');
 
+router.use(express.json());
+
 router.get('/', (req, res) => {
     res.send('Hello World!');
 })
