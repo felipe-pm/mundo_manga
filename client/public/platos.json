@@ -1,0 +1,134 @@
+[
+  {
+    "desc": "detallar.",
+    "id": "P001",
+    "img": "https://firebasestorage.googleapis.com/v0/b/apis-varias-mias.appspot.com/o/pizzeria%2Fpizza-1239077_640_cl.jpg?alt=media&token=6a9a33da-5c00-49d4-9080-784dcc87ec2c",
+    "ingredients": ["x", "x", "x", "x"],
+    "name": "Anime",
+    "categoria": "Juguete",
+    "cantidad": "",
+    "price": 1,
+    "favorito": false
+  },
+  {
+    "desc": "detallar.",
+    "id": "P002",
+    "img": "https://firebasestorage.googleapis.com/v0/b/apis-varias-mias.appspot.com/o/pizzeria%2Fpizza-1239077_640_cl.jpg?alt=media&token=6a9a33da-5c00-49d4-9080-784dcc87ec2c",
+    "ingredients": ["x", "x", "x", "x"],
+    "name": "Anime",
+    "categoria": "Juguete",
+    "cantidad": "",
+    "price": 1,
+    "favorito": false
+  },
+  {
+    "desc": "técnica de cocción de la cocina japonesa en la cual los alimentos son asados al horno en un adobo de salsa dulce.",
+    "id": "P003",
+    "img": "https://firebasestorage.googleapis.com/v0/b/apis-varias-mias.appspot.com/o/pizzeria%2Fpizza-1239077_640_cl.jpg?alt=media&token=6a9a33da-5c00-49d4-9080-784dcc87ec2c",
+    "ingredients": ["x", "x", "x", "x"],
+    "name": "Anime",
+    "categoria": "Juguete",
+    "cantidad": "",
+    "price": 1,
+    "favorito": false
+  },
+  {
+    "desc": "Combinacion de albóndigas caseras con caldo y verduras. Las albóndigas están hechas con una mezcla de carne picada, pan rallado, huevos y especias.",
+    "id": "P004",
+    "img": "https://firebasestorage.googleapis.com/v0/b/apis-varias-mias.appspot.com/o/pizzeria%2Fpizza-1239077_640_cl.jpg?alt=media&token=6a9a33da-5c00-49d4-9080-784dcc87ec2c",
+    "ingredients": ["x", "x", "x", "x"],
+    "name": "Anime",
+    "categoria": "Juguete",
+    "cantidad": "",
+    "price": 1,
+    "favorito": false
+  },
+  {
+    "desc": "Se combinan con una cremosa salsa de azafrán que le da un color dorado y un sabor delicado y aromático. Los ostiones frescos añaden un toque marino y textura suave a esta deliciosa preparación.",
+    "id": "P005",
+    "img": "https://firebasestorage.googleapis.com/v0/b/apis-varias-mias.appspot.com/o/pizzeria%2Fpizza-1239077_640_cl.jpg?alt=media&token=6a9a33da-5c00-49d4-9080-784dcc87ec2c",
+    "ingredients": ["x", "x", "x", "x"],
+    "name": "Anime",
+    "categoria": "Juguete",
+    "cantidad": "",
+    "price": 1,
+    "favorito": false
+  },
+  {
+    "desc": " El lomo vetado se sazona con especias y se hornea lentamente, lo que permite que la carne se cocine de manera uniforme y conserve su jugosidad.",
+    "id": "P006",
+    "img": "https://firebasestorage.googleapis.com/v0/b/apis-varias-mias.appspot.com/o/pizzeria%2Fpizza-1239077_640_cl.jpg?alt=media&token=6a9a33da-5c00-49d4-9080-784dcc87ec2c",
+    "ingredients": ["x", "x", "x", "x"],
+    "name": "LOMO VETADO AL HORNO",
+    "categoria": "plato de fondo",
+    "cantidad": "2 Personas",
+    "price": 1,
+    "favorito": false
+  },
+  {
+    "desc": " Una opción deliciosa y saludable para aquellos que prefieren evitar la carne en su alimentación. Este tipo de sándwich se compone de diferentes ingredientes vegetarianos que se colocan entre dos rebanadas de pan",
+    "id": "P007",
+    "img": "https://firebasestorage.googleapis.com/v0/b/apis-varias-mias.appspot.com/o/pizzeria%2Fpizza-1239077_640_cl.jpg?alt=media&token=6a9a33da-5c00-49d4-9080-784dcc87ec2c",
+    "ingredients": ["x", "x", "x", "x"],
+    "name": "SANDWICH VEGETARIANO",
+    "categoria": "plato de fondo",
+    "cantidad": " 2 Personas",
+    "price": 1,
+    "favorito": false
+  },
+  {
+    "desc": " Es un plato clásico de la cocina española y consiste en una mezcla de papas (patatas) y huevos. Se trata de una especie de torta o pastel hecho a base de rodajas finas de papas cocidas en aceite y luego mezcladas con huevos batidos",
+    "id": "P008",
+    "img": "https://firebasestorage.googleapis.com/v0/b/apis-varias-mias.appspot.com/o/pizzeria%2Fpizza-1239077_640_cl.jpg?alt=media&token=6a9a33da-5c00-49d4-9080-784dcc87ec2c",
+    "ingredients": ["x", "x", "x", "x"],
+    "name": "TORTILLA DE PAPAS",
+    "categoria": "plato de fondo",
+    "cantidad": " 2 Personas",
+    "price": 1,
+    "favorito": false
+  },
+  {
+    "desc": "Una deliciosa preparación en la que se utiliza quinoa para crear una capa crujiente alrededor del pescado. Es una opción saludable y sabrosa que combina la textura crujiente de la quinoa con la jugosidad y el sabor del pescado.",
+    "id": "P009",
+    "img": "https://firebasestorage.googleapis.com/v0/b/apis-varias-mias.appspot.com/o/pizzeria%2Fpizza-1239077_640_cl.jpg?alt=media&token=6a9a33da-5c00-49d4-9080-784dcc87ec2c",
+    "ingredients": ["x", "x", "x", "x"],
+    "name": "PESCADO CON COSTRA DE QUÍNOA",
+    "categoria": "plato de fondo",
+    "cantidad": " 2 Personas",
+    "price": 1,
+    "favorito": false
+  },
+  {
+    "desc": "Una deliciosa preparación de carne que se cocina en el horno para lograr una cocción uniforme y un sabor jugoso.",
+    "id": "P010",
+    "img": "https://firebasestorage.googleapis.com/v0/b/apis-varias-mias.appspot.com/o/pizzeria%2Fpizza-1239077_640_cl.jpg?alt=media&token=6a9a33da-5c00-49d4-9080-784dcc87ec2c",
+    "ingredients": ["x", "x", "x", "x"],
+    "name": "CARNE ASADA AL HORNO",
+    "categoria": "",
+    "cantidad": " 2 ",
+    "price": 1,
+    "favorito": false
+  },
+  {
+    "desc": "Una deliciosa variante del clásico quiche que se caracteriza por ser apto para vegetarianos y utilizar una masa hecha a base de quinoa en lugar de la tradicional masa de harina de trigo.",
+    "id": "P011",
+    "img": "https://firebasestorage.googleapis.com/v0/b/apis-varias-mias.appspot.com/o/pizzeria%2Fpizza-1239077_640_cl.jpg?alt=media&token=6a9a33da-5c00-49d4-9080-784dcc87ec2c",
+    "ingredients": ["x", "x", "x", "x"],
+    "name": "",
+    "categoria": "",
+    "cantidad": " 2 ",
+    "price": 1,
+    "favorito": false
+  },
+  {
+    "desc": "Es un plato sabroso y aromático que combina trozos de pollo tierno con una salsa de curry llena de especias y sabores exóticos..",
+    "id": "P012",
+    "img": "https://firebasestorage.googleapis.com/v0/b/apis-varias-mias.appspot.com/o/pizzeria%2Fpizza-1239077_640_cl.jpg?alt=media&token=6a9a33da-5c00-49d4-9080-784dcc87ec2c",
+    "ingredients": ["x", "x", "x", "x"],
+    "name": "",
+    "categoria": "",
+    "cantidad": "2",
+    "price": 1,
+    "favorito": false
+  }
+]

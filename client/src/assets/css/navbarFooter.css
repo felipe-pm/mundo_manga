@@ -1,0 +1,68 @@
+a{
+  font-size: larger;
+  text-decoration: none;
+  color: white;
+  margin-left: 20px;
+  margin-right: 10px;
+}
+
+nav {
+  background: #000607;
+  padding: 10px;
+  color: white;
+  width: auto;
+  height: 70px;
+}
+
+.navHom{
+  margin-top: 10px;
+}
+
+.car{
+  size: 50px;
+}
+
+.active {
+  color: rgb(218, 17, 17);
+} 
+
+footer{
+  position: fixed ;
+  background: #00080a;
+  margin-bottom: 0px;
+  height: 10%;
+  bottom: 0;
+  width: 100%;
+}
+
+
+body {
+  margin-bottom: 100px; 
+}
+
+@media (max-width: 767px) {
+  .navHom {
+    font-size: 14px;
+
+  }
+}
+
+@media (min-width: 768px)  {
+  .navHom {
+    font-size: 16px;
+  }
+}
+
+
+@media (min-width: 992px) {
+  .navHom {
+    font-size: 18px;
+    
+  }
+}
+@media (min-width: 993px) {
+  .navHom {
+    font-size: 100%;
+    
+  }
+}

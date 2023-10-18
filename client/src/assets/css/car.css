@@ -1,0 +1,132 @@
+/* car.css */
+.container {
+    padding-top: 30px;
+  }
+
+  /* Pantallas con un ancho mayor o igual a 576px */
+@media (min-width: 576px) {
+      .carImg {
+        width:60%;
+        height: auto;;
+    }
+  
+    .title-table {
+      font-size: 1rem;
+    }
+  
+    .cart-table {
+      max-width: 600px;
+      margin: 0 auto;
+    }
+  
+    .fs-4 {
+      font-size: 1rem;
+    }
+  
+    .btn-outline {
+      margin-left: 10px;
+      margin-right: 10px;
+      font-size: 1rem;
+    }
+  
+    .btn-success {
+      font-size: 1rem;
+      
+    }
+}
+
+/* Pantallas con un ancho mayor o igual a 768px */
+@media (min-width: 768px) {
+  .carousel-inner img {
+      width:100%;
+      height: auto;;
+  }
+}
+  
+  /* Estilos para pantallas grandes (desktop) */
+  @media screen and (min-width: 992px) {
+    .carImg {
+        width:60%;
+        height: auto;;
+    }
+  
+    .title-table {
+      font-size: 1.5rem;
+      margin-bottom: 20px;
+    }
+  
+    .cart-table {
+      max-width: 800px;
+      margin: 0 auto;
+    }
+  
+    .fs-4 {
+      font-size: 1.2rem;
+    }
+  
+    .btn-outline {
+      margin-left: 10px;
+      margin-right: 10px;
+      font-size: 1.2rem;
+    }
+  
+    .btn-success {
+      font-size: 1rem;
+      
+    }
+  }
+  
+  @media screen and (max-width: 991px) {
+    .carImg {
+        width:60%;
+        height: auto;;
+    }
+  
+    .title-table {
+      font-size: 1.2rem;
+      margin-bottom: 15px;
+    }
+  
+    .fs-4 {
+      font-size: 1rem;
+    }
+  
+    .btn-outline {
+      margin-left: 5px;
+      margin-right: 5px;
+      font-size: 1rem;
+    }
+  
+    .btn-success {
+      font-size: 1.2rem;
+      
+    }
+  }
+  
+  @media screen and (max-width: 767px) {
+    .carImg {
+        width:60%;
+        height: auto;;
+    }
+  
+    .title-table {
+      font-size: 1rem;
+      margin-bottom: 10px;
+    }
+  
+    .fs-4 {
+      font-size: 0.9rem;
+    }
+  
+    .btn-outline {
+      margin-left: 3px;
+      margin-right: 3px;
+      font-size: 0.9rem;
+    }
+  
+    .btn-success {
+      font-size: 1rem;
+      
+    }
+  }
+  

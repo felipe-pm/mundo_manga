@@ -1,0 +1,73 @@
+/* home.css */
+.menu {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  gap: 2rem;
+  margin: 10px;
+  margin-top: 30px;
+}
+
+.text-muted {
+  text-align: center;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+/* Tamaño fijo para todas las cards */
+.cartas {
+  height: 400px;
+}
+
+/* Botones del mismo tamaño */
+.buttonMenu {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  
+}
+
+.buttonMenu button {
+  width: auto;
+  height: auto;
+}
+
+ul {
+  list-style: none;
+}
+
+/* Media queries para diferentes tamaños de pantalla */
+@media (min-width: 576px) {
+  .menu {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2rem;
+  margin: 10px;
+  margin-top: 30px;
+  .cartas {
+    height: 100px;
+  }
+  }
+  
+}
+
+@media (min-width: 768px) {
+  .menu {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 992px) {
+  .menu {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (min-width: 1200px) {
+  .menu {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+@media (min-width: 1500px) {
+  .menu {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}

@@ -1,0 +1,78 @@
+body{
+  background: rgb(226, 218, 218);
+  width: 100 wh;
+}
+.galeria {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+  margin: 10px;
+}
+
+.absolute{
+  position: absolute;
+  top: 0;
+  right: 0;
+
+}
+article{
+  position: relative;
+
+}
+
+img{
+  width: 100%;
+}
+
+.galeria .foto:hover {
+  box-shadow: 0px 0px 2px 1px black;
+}
+
+.buttonMenuFavorito {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+ .btnVerMas{
+  margin: 0;
+ }
+
+ @media (min-width: 576px) {
+  .galeria {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2rem;
+  margin: 10px;
+  margin-top: 30px;
+  .cartas {
+    height: 100px;
+  }
+  }
+  
+}
+
+@media (min-width: 768px) {
+  .galeria {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 992px) {
+  .galeria {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (min-width: 1200px) {
+  .galeria {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+@media (min-width: 1500px) {
+  .galeria {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+
+

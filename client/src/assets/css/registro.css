@@ -1,0 +1,33 @@
+.col-10 {
+  background-color: #f9f9f9; /* Cambia el color de fondo a tu preferencia */
+  border: 1px solid #e0e0e0; /* Agrega un borde alrededor del formulario */
+  border-radius: 10px; /* Bordes redondeados */
+  padding: 20px; /* Espaciado interno */
+}
+
+.btn-registro {
+	box-shadow:inset 0px 1px 0px 0px #d9fbbe;
+	background:linear-gradient(to bottom, #b8e356 5%, #a5cc52 100%);
+	background-color:#b8e356;
+	border-radius:6px;
+	border:1px solid #83c41a;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #86ae47;
+    margin-top: 10px;
+}
+.btn-registro:hover {
+	background:linear-gradient(to bottom, #a5cc52 5%, #b8e356 100%);
+	background-color:#a5cc52;
+}
+.btn-registro:active {
+	position:relative;
+	top:1px;
+}
+
