@@ -48,4 +48,15 @@ Estilos base para el carousel
         width:100%;
         height: auto;;
     }
+    
+@keyframes scroll {
+    0% {
+        -webkit-transform: translateX(0);
+        transform: translateX(0);
+    }
+
+    100% {
+        -webkit-transform: translateX(calc(-200px * 3));
+        transform: translateX(calc(-200px *3));
+    }    
 }
