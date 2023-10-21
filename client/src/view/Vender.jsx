@@ -43,6 +43,7 @@ const Vender = () => {
           }
           const response  = await axios.post(url + endpoint, formData);
           toast.success("Producto publicado con éxito 😀", { autoClose: 2000 });
+          navigate("/productos");
         } catch (error) {
           console.log(error);
         }

@@ -47,7 +47,7 @@ router.post("/login", async (req, res) => {
 router.post("/vender", async (req, res) => {
     const productoData = req.body;
     await agregarProducto(productoData);
-    res.send('Producto añadido con éxito');
+    res.json({ message: 'Producto añadido con éxito', redirectTo: '/productos' });
 })
 
 router.patch("/update/:userID", async (req, res) => {
